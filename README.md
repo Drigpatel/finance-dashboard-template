@@ -1,5 +1,8 @@
 Webix Finance Dashboard Template
 ============
+A modern and responsive Finance Dashboard built with the Webix UI library. The application provides a clean interface for visualizing and managing financial information through interactive dashboard components.
+
+The project is designed as a reusable dashboard template that can be integrated into larger web applications or customized according to specific business requirements.
 
 Check the Finance Dashboard web template for the Webix UI library.
 
