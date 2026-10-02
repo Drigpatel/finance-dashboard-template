@@ -123,6 +123,7 @@ module.exports = {
 		}
 	},
 
+// Specific plugins needed
 	plugins: [
 		new MiniCssExtractPlugin({
 			filename: `${PATHS.assets}css/[name].css`
